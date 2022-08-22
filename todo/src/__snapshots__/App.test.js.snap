@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class=""
+  >
+    <div>
+      <div>
+        <h2>
+          Mow lawn
+        </h2>
+        <button
+          data-testid="remove-Mow lawn"
+          id="56a3403e-2b59-45e9-9de2-e61ffd1fad1f"
+        >
+          X
+        </button>
+      </div>
+      <div>
+        <h2>
+          Wash dishes
+        </h2>
+        <button
+          data-testid="remove-Wash dishes"
+          id="323cb1d3-7f01-40d3-a4c8-6796f74bd397"
+        >
+          X
+        </button>
+      </div>
+      <form>
+        <input
+          data-testid="new-todo-input"
+          name="todo"
+          placeholder="new todo"
+          value=""
+        />
+        <button
+          data-testid="submit-todo-input"
+        >
+          Add todo
+        </button>
+      </form>
+    </div>
+  </div>
+</DocumentFragment>
+`;
